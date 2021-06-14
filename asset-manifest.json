@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ExpenseController/static/css/main.c4484379.chunk.css",
+    "main.js": "/ExpenseController/static/js/main.809801a0.chunk.js",
+    "main.js.map": "/ExpenseController/static/js/main.809801a0.chunk.js.map",
+    "runtime-main.js": "/ExpenseController/static/js/runtime-main.a2588855.js",
+    "runtime-main.js.map": "/ExpenseController/static/js/runtime-main.a2588855.js.map",
+    "static/js/2.acac24ce.chunk.js": "/ExpenseController/static/js/2.acac24ce.chunk.js",
+    "static/js/2.acac24ce.chunk.js.map": "/ExpenseController/static/js/2.acac24ce.chunk.js.map",
+    "static/js/3.8bbb5d2d.chunk.js": "/ExpenseController/static/js/3.8bbb5d2d.chunk.js",
+    "static/js/3.8bbb5d2d.chunk.js.map": "/ExpenseController/static/js/3.8bbb5d2d.chunk.js.map",
+    "index.html": "/ExpenseController/index.html",
+    "static/css/main.c4484379.chunk.css.map": "/ExpenseController/static/css/main.c4484379.chunk.css.map",
+    "static/js/2.acac24ce.chunk.js.LICENSE.txt": "/ExpenseController/static/js/2.acac24ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a2588855.js",
+    "static/js/2.acac24ce.chunk.js",
+    "static/css/main.c4484379.chunk.css",
+    "static/js/main.809801a0.chunk.js"
+  ]
+}
