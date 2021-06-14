@@ -5,34 +5,40 @@ import React, {useState} from "react"
 function App() {
   const DUMMY_EXPENSES = [
     {
-      expenseDate: new Date(2020, 2, 28),
+      id: 1,
+      expenseDate: new Date(2020, 0, 28),
       expenseTitle: "Motorbike",
-      expenseAmount: 222.7
+      expenseAmount: 222
     },
     {
+      id: 2,
       expenseDate: new Date(2021, 2, 24),
       expenseTitle: "Book",
       expenseAmount: 555
     },
     {
-      expenseDate: new Date(2021, 2, 17),
+      id: 3,
+      expenseDate: new Date(2021, 7, 17),
       expenseTitle: "tank",
-      expenseAmount: 3000
+      expenseAmount: 300
     },
     {
+      id: 4,
       expenseDate: new Date(2022, 2, 27),
       expenseTitle: "Bike",
       expenseAmount: 777
     },
     {
-      expenseDate: new Date(2019, 2, 16),
+      id: 5,
+      expenseDate: new Date(2019, 1, 16),
       expenseTitle: "Plant",
-      expenseAmount: 8888
+      expenseAmount: 888
     },
     {
-      expenseDate: new Date(2021, 2, 9),
+      id: 6,
+      expenseDate: new Date(2021, 12, 7),
       expenseTitle: "Roses",
-      expenseAmount: 5555
+      expenseAmount: 555
     }
   ];
   const [expenses, setExpenses] = useState(DUMMY_EXPENSES)
